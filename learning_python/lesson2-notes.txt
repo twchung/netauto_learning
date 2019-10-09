@@ -1,7 +1,0 @@
-git branch
-git branch [branch-name]
-git switch [branch-name] (old: git checkout [branch-name])
-git merge [branch]
-git branch -d [branch-name]
-
-
