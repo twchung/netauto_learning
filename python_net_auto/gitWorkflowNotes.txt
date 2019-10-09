@@ -1,0 +1,28 @@
+Workflow for developer
+git clone [github URL]
+git branch
+git branch -r
+git checkout -b master origin/master
+git branch
+git log
+git checkout develop
+git log
+git status
+git checkout -b test_feature1 origin/develop
+git log
+git branch
+
+# make changes in branch test_feature1
+
+
+
+
+
+
+
+git branch [branch-name]
+git switch [branch-name] (old: git checkout [branch-name])
+git merge [branch]
+git branch -d [branch-name]
+
+
